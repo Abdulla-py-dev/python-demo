@@ -1,4 +1,4 @@
 # python-demo
 my first git repository
 <br>
-author=abdulla
+author=abdulla(pyhton dev)
